@@ -2,4 +2,4 @@
 
 This is a web server
 
-I used sinatra to create it 
+Frameworks used: Sinatra
